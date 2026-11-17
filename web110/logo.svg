@@ -1,1 +1,4 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100">
+    <rect width="200" height="100" fill="blue"/>
+    <text x="50" y="60" fill="white" font-size="24">WEB110</text>
+</svg>
